@@ -14,7 +14,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://storage.googleapis.com/figmotion-renderer/videos/7%3A2%3Ae23dcfc8-0216-4925-aefd-e2d9d114f0bd-018ea65f-1cfc-4643-99d1-92f814b58f75.gif?GoogleAccessId=cloud-run-frames-handler%40figmotion.iam.gserviceaccount.com&Expires=1642799856&Signature=Ca6DE1nK4hjw%2FKTxkUIPuQR2qNfTo%2FOIaN6JWp3ag420fkV83NfskucxG%2FfHnFQC0ipZE00TKoSTe9Ku%2BadoiZWJ1z9rlT%2FRGW3ZBKN7zoga%2BwkPfuH831qVpTIc3VlvULHKciUQ5EmvwNwNOqIkrvqTnPMFKu4wlmaTt8d5yNSfmhKf%2BzHSjs%2FqltksozAFoMCqCxsza6%2BK%2B2Gua8R6Kx1mQKhQ0uwzNHgOE24TBfG7%2Borcn9f7ORAxogOP1AQaYNvXo4MmlJuTqvhYPiJUAqiNHLrkKbeRupwZWCzH17Y4gWBm4siIRoiZ4LmB8FKISU%2F6ElYRvEZBPuGOOjdCTg%3D%3D" alt="DevelopingImage" width="500" height="250"/>
+      <img src="https://storage.googleapis.com/figmotion-renderer/videos/7%3A2%3A1ab410c2-2865-4322-bce6-d7aebebd84dc-02cbf434-8ea1-49e0-b388-abde8f805c3d.gif?GoogleAccessId=cloud-run-frames-handler%40figmotion.iam.gserviceaccount.com&Expires=1642800508&Signature=QOgXv%2BaRdEqXagOQZ9XEyzBHDJ%2B%2BmvbwusXo6%2F24HSM%2FjvSsX1o%2B5l7zw6qXW5oPIwk2GldrHPNKq26qoUAj93o3mikUtHVINC2VzYCJs30LsRaB4KUsjutMzDLaSpoborf42FhIlMAVaVa6Vfo6FNTZPFPzozMEYzrOJJ2knrOFazPpldP0Ix6zCuKoURaYnSoaBYY07eAiREv%2FJDWzrFbKUcBc%2FVT3pL14CaxmEkv5nJuWhHxulg8g9a1yWum34ERjpJE8FrYvyAyWVhnXQ6w%2F9huaHej1UPv3SPReZ8Mk%2B5s9cLhK7g0DdrKiW1ZoVIOhRCnm7TUVhAqaPDZxVQ%3D%3D" alt="DevelopingImage" width="500" height="250"/>
     </td>
   </tr>
 </table>
