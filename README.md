@@ -6,7 +6,7 @@
       <ul>
         <li>🔭 I’m currently working on PocketBook Application.</li>
         <li>👯 I’m looking to collaborate on iOS Development.</li>
-        <li>🤔 I’m looking for help with **UI Designs** for an app.</li>
+        <li>🤔 I’m looking for help with <b>UI Designs</b> for an app.</li>
         <li>💬 Ask me about Python, Swift or any other tech related stuff.</li>
         <li>📫 How to reach me: <b>Email</b> <a href="mailto:harshulnanda0@gmail.com">harshulnanda0@gmail.com</a></li>
         <li>😄 Pronouns: He/His</li>
