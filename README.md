@@ -32,7 +32,6 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/CV), a Programmer from <img
 <details>	
   <summary><b>Python</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
 </details>
 <details>	
   <summary><b>Swift</b></summary>
