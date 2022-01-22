@@ -71,6 +71,8 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/CV), a Programmer from <img
   <img src="https://github.com/Harshul-18/SwiftProjects/blob/main/Images/whatisthis.gif" />
 </details>
 
+
+<p align="center">(click on the projects to head over to the repos.)</p>
 <!-- 
 <b> Python &emsp; </b> 
 <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/90" /> -->
