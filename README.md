@@ -1,15 +1,17 @@
-<h2> Hallo, I'm Harshul Nanda! <img src="https://c.tenor.com/8TTGn6XVuPAAAAAi/good-morning-hello.gif" alt="👋" width="50" height="50"/></h2>
+<h1 align="left"> Hallo, I'm Harshul Nanda! <img src="https://c.tenor.com/8TTGn6XVuPAAAAAi/good-morning-hello.gif" alt="👋" width="50" height="50"/></h1>
 
 Hi, I'm [Harshul Nanda](https://harshul-18.github.io/CV), a Programmer from <img src="https://c.tenor.com/2ZCVcnyaXEMAAAAi/india-flag.gif" width="20" height="10" /> India. Beside's programming, I enjoy eating food and playing video games.
 
-  <img align="right" src="https://github.com/Harshul-18/Harshul-18/blob/main/Developing.gif" alt="DevelopingImage" width="500" height="250"/>
+  <img align="right" src="https://github.com/Harshul-18/Harshul-18/blob/main/Developing.gif" alt="DevelopingImage" width="500" height="250"/><br />
+<!--   <img align="right" src="https://github.com/Harshul-18/Harshul-18/blob/main/Developing.gif" alt="DevelopingImage" width="500" height="250"/> -->
+<!--   <img align="right" src="https://github.com/Harshul-18/Harshul-18/blob/main/Developing.gif" onmouseover="this.src='https://c.tenor.com/8TTGn6XVuPAAAAAi/good-morning-hello.gif'" onmouseout="this.src=''" /> -->
     
-**Talking about Personal Stuffs:**
+### **Talking about Personal Stuffs:**
 
 <ul>
-  <li>🔭 I’m currently working on PocketBook Application.</li>
+<!--   <li>🔭 I’m currently working on PocketBook Application.</li> -->
   <li>👯 I’m looking to collaborate on iOS Development.</li>
-  <li>🤔 I’m looking for help with <b>UI Designs</b> for an app.</li>
+<!--   <li>🤔 I’m looking for help with <b>UI Designs</b> for an app.</li> -->
   <li>💬 Ask me about Python, Swift or any other tech related stuff.</li>
   <li>📫 How to reach me: <b>Email</b> <a href="mailto:harshulnanda0@gmail.com">harshulnanda0@gmail.com</a></li>
   <li>😄 Pronouns: He/His</li>
@@ -17,24 +19,36 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/CV), a Programmer from <img
 </ul>
 
 ### Tools
-> Software Development :&ensp;
->![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/harshul-18 "Visual Studio") ![XCode](https://img.shields.io/badge/-1575F9?style=flat&logo=Xcode&logoColor=white&link=https://github.com/harshul-18 "XCode")
->
-> Version Control :&ensp;
+- Software Development :&ensp;
+![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/harshul-18 "Visual Studio") ![XCode](https://img.shields.io/badge/-1575F9?style=flat&logo=Xcode&logoColor=white&link=https://github.com/harshul-18 "XCode")
+
+- Version Control :&ensp;
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/harshul-18)](https://github.com/harshul-18)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/harshul-18)](https://github.com/harshul-18)
->
-> Languages :&ensp;
+
+- Languages :&ensp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Projects
 <details>	
-  <summary><b>Python</b></summary>
+  <summary><b>Here's what I have done in Python</b></summary>
   <br />
+  <ul>
+    <li>
+      <a href="https://github.com/Harshul-18/PythonProjectsA/tree/main/PhotoToPencilSketchMaker">
+        Photo to Pencil Sketch Maker
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/Harshul-18/PythonProjectsA/tree/main/QRCodeGenerator">
+        QRCodeGenerator
+      </a>
+    </li>
+  </ul>
 </details>
 <details>	
-  <summary><b>Swift</b></summary>
+  <summary><b>Here's what I have done in Swift</b></summary>
   <br />
   <ul>
     <li>
