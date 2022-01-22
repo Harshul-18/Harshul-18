@@ -65,8 +65,10 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/CV), a Programmer from <img
 </details>
 
 <details>
-  <summary><b>Here's what I am working on</b></summary>
+  <summary><b>See what I am working on</b></summary>
   <br />
+  <h3>Pokedex App</h3>
+  <img src="https://github.com/Harshul-18/SwiftProjects/blob/main/Images/whatisthis.gif" />
 </details>
 
 <!-- 
