@@ -64,6 +64,11 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/CV), a Programmer from <img
   </ul>
 </details>
 
+<details>
+  <summary><b>Here's what I am working on</b></summary>
+  <br />
+</details>
+
 <!-- 
 <b> Python &emsp; </b> 
 <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/90" /> -->
