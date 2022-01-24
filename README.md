@@ -2,7 +2,7 @@
 
 Hi, I'm [Harshul Nanda](https://harshul-18.github.io/CV), a Programmer from <img src="https://c.tenor.com/2ZCVcnyaXEMAAAAi/india-flag.gif" width="20" height="10" /> India. Beside's programming, I enjoy eating food and playing video games.
 
-  <img align="right" src="https://github.com/Harshul-18/Harshul-18/blob/main/Developing.gif" alt="DevelopingImage" width="500" height="250"/><br /><br />
+  <img align="right" src="https://github.com/Harshul-18/Harshul-18/blob/main/Developing.gif" alt="DevelopingImage" width="500" height="250"/>
     
 ### **Talking about Personal Stuffs:**
 
@@ -16,7 +16,7 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/CV), a Programmer from <img
   <li>⚡ Fun fact: I love <a href="https://media.giphy.com/media/YFDqKSn3nKh1bzYlHE/giphy.gif">pen spinning</a></li>
 </ul>
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Harshul-18&show_icons=true&theme=tokyonight" alt="Harshul's Github Stats" /><br />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Harshul-18&show_icons=true&theme=tokyonight" alt="Harshul's Github Stats" />
 
 ### Tools
 - Software Development :&ensp;
