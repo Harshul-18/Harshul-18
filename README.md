@@ -2,7 +2,9 @@
 
 Hi, I'm [Harshul Nanda](https://harshul-18.github.io/CV), a Programmer from <img src="https://c.tenor.com/2ZCVcnyaXEMAAAAi/india-flag.gif" width="20" height="10" /> India. Beside's programming, I enjoy eating food and playing video games.
 
-  <img align="right" src="https://github.com/Harshul-18/Harshul-18/blob/main/Developing.gif" alt="DevelopingImage" width="500" height="250"/>
+<br>
+
+  <img align="right" src="https://github.com/Harshul-18/Harshul-18/blob/main/Name.gif" alt="Name" width="500" height="250"/>
     
 ### **Talking about Personal Stuffs:**
 
@@ -13,8 +15,10 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/CV), a Programmer from <img
   <li>💬 Ask me about Python, Swift or any other tech related stuff.</li>
   <li>📫 How to reach me: <b>Email</b> <a href="mailto:harshulnanda0@gmail.com">harshulnanda0@gmail.com</a></li>
   <li>😄 Pronouns: He/His</li>
-  <li>⚡ Fun fact: I love <a href="https://media.giphy.com/media/YFDqKSn3nKh1bzYlHE/giphy.gif">pen spinning</a></li>
+  <li>⚡ Fun fact: I love <a href="www.wolfromalpha.com">mathematics</a></li>
 </ul>
+
+<br>
 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Harshul-18&show_icons=true&theme=tokyonight" alt="Harshul's Github Stats" />
 
@@ -30,7 +34,12 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/CV), a Programmer from <img
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Projects
+
+<br>
+   <img align="right" src="https://github.com/Harshul-18/Harshul-18/blob/main/Developing.gif" alt="DevelopingImage" width="500" height="250"/>
+
+
+<h3>Projects</h3>
 <details>	
   <summary><b>Here's what I have done in Python</b></summary>
   <br />
