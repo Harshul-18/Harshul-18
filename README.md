@@ -45,8 +45,8 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/CV), a Programmer from <img
 <br>
    <img align="right" src="https://github.com/Harshul-18/Harshul-18/blob/main/Developing.gif" alt="DevelopingImage" width="500" height="250"/>
 
-
 <h3>Projects</h3>
+<blockquote>
 <details>	
   <summary><b>Here's what I have done in Python</b></summary>
   <br />
@@ -86,6 +86,8 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/CV), a Programmer from <img
   <h3>Pokedex App</h3>
   <img align="left" src="https://github.com/Harshul-18/SwiftProjects/blob/main/Images/whatisthis.gif" />
 </details>
+  
+</blockquote>
     
 
 <!-- <p align="center">(click on the projects to head over to the repos)</p> -->
