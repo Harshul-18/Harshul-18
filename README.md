@@ -4,9 +4,12 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/CV), a Programmer from <img
 
 <br>
 
-  <img align="right" src="https://github.com/Harshul-18/Harshul-18/blob/main/Name.gif" alt="Name" width="500" height="250"/>
+  <img align="left" src="https://github.com/Harshul-18/Harshul-18/blob/main/Name.gif" alt="Name" width="475" height="225"/>
     
-### **Talking about Personal Stuffs:**
+<div align="right">
+  <div align="left">
+    
+<h3><b>Talking about Personal Stuffs:</b></h3>
 
 <ul>
 <!--   <li>🔭 I’m currently working on PocketBook Application.</li> -->
@@ -17,6 +20,10 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/CV), a Programmer from <img
   <li>😄 Pronouns: He/His</li>
   <li>⚡ Fun fact: I love <a href="www.wolfromalpha.com">mathematics</a></li>
 </ul>
+    
+    
+  </div>
+</div>
 
 <br>
 
@@ -75,10 +82,11 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/CV), a Programmer from <img
 
 <details>
   <summary><b>See what I am working on</b></summary>
-  <br />
+<!--   <br /> -->
   <h3>Pokedex App</h3>
-  <img src="https://github.com/Harshul-18/SwiftProjects/blob/main/Images/whatisthis.gif" />
+  <img align="left" src="https://github.com/Harshul-18/SwiftProjects/blob/main/Images/whatisthis.gif" />
 </details>
+    
 
 <!-- <p align="center">(click on the projects to head over to the repos)</p> -->
 
