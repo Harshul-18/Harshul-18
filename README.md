@@ -12,17 +12,10 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/CV), a Programmer from <img
 <h3><b>Talking about Personal Stuffs:</b></h3>
 
 <!--   <li>🔭 I’m currently working on PocketBook Application.</li> -->
-    
   - 👯 I’m looking to collaborate on iOS Development.
-    
-<!--   <li>🤔 I’m looking for help with <b>UI Designs</b> for an app.</li> -->
-    
   - 💬 Ask me about Python, Swift or any other tech related stuff.
-    
   - 📫 How to reach me: <b>Email</b> <a href="mailto:harshulnanda0@gmail.com">harshulnanda0@gmail.com</a>
-    
   - 😄 Pronouns: He/His  
-    
   - ⚡ Fun fact: I love <a href="www.wolfromalpha.com">mathematics</a>
     
     
