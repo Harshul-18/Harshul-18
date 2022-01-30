@@ -30,13 +30,16 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/CV), a Programmer from <img
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Harshul-18&show_icons=true&theme=tokyonight" alt="Harshul's Github Stats" />
 
 ### Tools
-- Software Development :&ensp;
+- Software Development :-&ensp;
+  
 ![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/harshul-18 "Visual Studio") ![XCode](https://img.shields.io/badge/-1575F9?style=flat&logo=Xcode&logoColor=white&link=https://github.com/harshul-18 "XCode")
 
-- Version Control :&ensp;
+- Version Control :-&ensp;
+  
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/harshul-18)](https://github.com/harshul-18)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/harshul-18)](https://github.com/harshul-18)
 
-- Languages :&ensp;
+- Languages :-&emsp;
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
