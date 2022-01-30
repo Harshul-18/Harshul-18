@@ -4,22 +4,27 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/CV), a Programmer from <img
 
 <br>
 
-  <img align="left" src="https://github.com/Harshul-18/Harshul-18/blob/main/Name.gif" alt="Name" width="475" height="225"/>
+  <img align="left" src="https://github.com/Harshul-18/Harshul-18/blob/main/Name.gif" alt="Name" width="475" height="250"/>
     
 <div align="right">
   <div align="left">
     
 <h3><b>Talking about Personal Stuffs:</b></h3>
 
-<ul>
 <!--   <li>🔭 I’m currently working on PocketBook Application.</li> -->
-  <li>👯 I’m looking to collaborate on iOS Development.</li>
+    
+  - 👯 I’m looking to collaborate on iOS Development.
+    
 <!--   <li>🤔 I’m looking for help with <b>UI Designs</b> for an app.</li> -->
-  <li>💬 Ask me about Python, Swift or any other tech related stuff.</li>
-  <li>📫 How to reach me: <b>Email</b> <a href="mailto:harshulnanda0@gmail.com">harshulnanda0@gmail.com</a></li>
-  <li>😄 Pronouns: He/His</li>
-  <li>⚡ Fun fact: I love <a href="www.wolfromalpha.com">mathematics</a></li>
-</ul>
+    
+  - 💬 Ask me about Python, Swift or any other tech related stuff.
+    
+  - 📫 How to reach me: <b>Email</b> <a href="mailto:harshulnanda0@gmail.com">harshulnanda0@gmail.com</a>
+    
+  - 😄 Pronouns: He/His  
+    
+  - ⚡ Fun fact: I love <a href="www.wolfromalpha.com">mathematics</a>
+    
     
     
   </div>
@@ -27,29 +32,27 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/CV), a Programmer from <img
 
 <br>
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Harshul-18&show_icons=true&theme=tokyonight" alt="Harshul's Github Stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Harshul-18&show_icons=true&theme=tokyonight" alt="Harshul's Github Stats" width="500" height="250"/>
 
 ### Tools
 - Software Development :-&ensp;
-  
 ![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/harshul-18 "Visual Studio") ![XCode](https://img.shields.io/badge/-1575F9?style=flat&logo=Xcode&logoColor=white&link=https://github.com/harshul-18 "XCode")
 
 - Version Control :-&ensp;
-  
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/harshul-18)](https://github.com/harshul-18)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/harshul-18)](https://github.com/harshul-18)
 
-- Languages :-&emsp;
-  
+- Languages :&ensp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 <br>
+
    <img align="right" src="https://github.com/Harshul-18/Harshul-18/blob/main/Developing.gif" alt="DevelopingImage" width="500" height="250"/>
 
 <h3>Projects</h3>
-<blockquote>
+<!-- <blockquote> -->
 <details>	
   <summary><b>Here's what I have done in Python</b></summary>
   <br />
@@ -90,7 +93,7 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/CV), a Programmer from <img
   <img align="left" src="https://github.com/Harshul-18/SwiftProjects/blob/main/Images/whatisthis.gif" />
 </details>
   
-</blockquote>
+<!-- </blockquote> -->
     
 
 <!-- <p align="center">(click on the projects to head over to the repos)</p> -->
