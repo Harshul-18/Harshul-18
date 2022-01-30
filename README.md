@@ -4,7 +4,7 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/CV), a Programmer from <img
 
 <br>
 
-  <img align="left" src="https://github.com/Harshul-18/Harshul-18/blob/main/Name.gif" alt="Name" width="475" height="225"/>
+  <img align="left" src="https://github.com/Harshul-18/Harshul-18/blob/main/Name.gif" alt="Name" width="375" height="225"/>
     
 <div align="right">
   <div align="left">
