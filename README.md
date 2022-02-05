@@ -43,7 +43,8 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/CV), a Programmer from <img
 
 <br>
 
-   <img align="right" src="https://github.com/Harshul-18/Harshul-18/blob/main/Developing.gif" alt="DevelopingImage" width="500" height="250"/>
+<!--    <img align="right" src="https://github.com/Harshul-18/Harshul-18/blob/main/Developing.gif" alt="DevelopingImage" width="500" height="250"/> -->
+   <img align="right" src="https://www.codewars.com/api/v1/users/harshulNanda18" alt="CodewarsProfile" width="500" height="250" />
 
 <h3>Projects</h3>
 <!-- <blockquote> -->
