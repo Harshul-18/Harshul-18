@@ -27,6 +27,8 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/Harshul-Portfolio/), a Prog
 
 <br>
 
+   <img align="right" src="https://github.com/Harshul-18/Harshul-18/blob/main/Developing.gif" alt="DevelopingImage" width="500" height="250"/>
+
 ### Tools
 - Software Development :-&ensp;
 ![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/harshul-18 "Visual Studio") ![XCode](https://img.shields.io/badge/-1575F9?style=flat&logo=Xcode&logoColor=white&link=https://github.com/harshul-18 "XCode")
@@ -50,7 +52,7 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/Harshul-Portfolio/), a Prog
 
 <br>
 
-   <img align="right" src="https://github.com/Harshul-18/Harshul-18/blob/main/Developing.gif" alt="DevelopingImage" width="500" height="250"/>
+<!--    <img align="right" src="https://github.com/Harshul-18/Harshul-18/blob/main/Developing.gif" alt="DevelopingImage" width="500" height="250"/> -->
 
 
 <h3>Projects</h3>
