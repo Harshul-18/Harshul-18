@@ -1,11 +1,11 @@
 <h1 align="left"> Hallo, I'm Harshul Nanda! <img src="https://c.tenor.com/8TTGn6XVuPAAAAAi/good-morning-hello.gif" alt="👋" width="50" height="50"/></h1>
    <img align="right" src="https://www.codewars.com/users/harshulNanda18/badges/large" alt="CodewarsProfile" />
 
-Hi, I'm [Harshul Nanda](https://harshul-18.github.io/CV), a Programmer from <img src="https://c.tenor.com/2ZCVcnyaXEMAAAAi/india-flag.gif" width="20" height="10" /> India. Beside's programming, I enjoy eating food and playing video games.
+Hi, I'm [Harshul Nanda](https://harshul-18.github.io/Harshul-Portfolio/), a Programmer from <img src="https://c.tenor.com/2ZCVcnyaXEMAAAAi/india-flag.gif" width="20" height="10" /> India. Beside's programming, I enjoy eating food and playing video games.
 
 <br>
 
-  <img align="left" src="https://github.com/Harshul-18/Harshul-18/blob/main/Name.gif" alt="Name" width="475" height="250"/>
+<!--   <img align="left" src="https://github.com/Harshul-18/Harshul-18/blob/main/Name.gif" alt="Name" width="475" height="250"/> -->
     
 <div align="right">
   <div align="left">
@@ -40,6 +40,8 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/CV), a Programmer from <img
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
 <br>
