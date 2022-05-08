@@ -6,6 +6,7 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/Harshul-Portfolio/), a Prog
 <br>
 
 <!--   <img align="left" src="https://github.com/Harshul-18/Harshul-18/blob/main/Name.gif" alt="Name" width="475" height="250"/> -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Harshul-18&show_icons=true&theme=tokyonight" alt="Harshul's Github Stats" width="500" height="250"/>
     
 <div align="right">
   <div align="left">
@@ -26,8 +27,6 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/Harshul-Portfolio/), a Prog
 
 <br>
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Harshul-18&show_icons=true&theme=tokyonight" alt="Harshul's Github Stats" width="500" height="250"/>
-
 ### Tools
 - Software Development :-&ensp;
 ![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/harshul-18 "Visual Studio") ![XCode](https://img.shields.io/badge/-1575F9?style=flat&logo=Xcode&logoColor=white&link=https://github.com/harshul-18 "XCode")
@@ -42,6 +41,11 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/Harshul-Portfolio/), a Prog
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+- Designing Tools :&ensp;
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 
 <br>
