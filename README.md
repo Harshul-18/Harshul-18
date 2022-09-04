@@ -48,6 +48,7 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/Harshul-Portfolio/), a Prog
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Spline](https://img.shields.io/badge/spline-%20-%20)
 
 
 <br>
