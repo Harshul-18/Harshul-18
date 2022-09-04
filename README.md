@@ -93,7 +93,7 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/Harshul-Portfolio/), a Prog
 <details>
   <summary><b>See what I am working on</b></summary>
 <!--   <br /> -->
-  <h3>ML Challenge</h3>
+  <a href="https://github.com/Harshul-18/HARM-Bot"><h3>ML Challenge</h3><a>
   <img align="left" src="https://github.com/Harshul-18/Harshul-18/blob/main/harmLogo.gif" />
 </details>
   
