@@ -63,6 +63,16 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/Harshul-Portfolio/), a Prog
   <br />
   <ul>
     <li>
+      <a href="https://github.com/Harshul-18/HARM-Bot">
+        HARM YouTube Bot API
+      </a>
+    </li>
+    <li>
+      <a href="">
+        Doubler application using Flutter
+      </a>
+    </li>
+    <li>
       <a href="https://github.com/Harshul-18/PythonProjectsA/tree/main/PhotoToPencilSketchMaker">
         Photo to Pencil Sketch Maker
       </a>
