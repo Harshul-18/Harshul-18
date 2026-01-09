@@ -6,7 +6,7 @@ Hi, I'm [Harshul Nanda](https://harshul-18.github.io/Harshul-Portfolio/), a Prog
 <br>
 
 <!--   <img align="left" src="https://github.com/Harshul-18/Harshul-18/blob/main/Name.gif" alt="Name" width="475" height="250"/> -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Harshul-18&show_icons=true&theme=tokyonight" alt="Harshul's Github Stats" width="500" height="250"/>
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Harshul-18&show_icons=true&theme=tokyonight" alt="Harshul's Github Stats" width="500" height="250"/> -->
     
 <div align="right">
   <div align="left">
