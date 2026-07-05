@@ -1,126 +1,135 @@
-<h1 align="left"> Hallo, I'm Harshul Nanda! <img src="https://c.tenor.com/8TTGn6XVuPAAAAAi/good-morning-hello.gif" alt="👋" width="50" height="50"/></h1>
-   <img align="right" src="https://www.codewars.com/users/harshulNanda18/badges/large" alt="CodewarsProfile" />
+<h1 align="center">Hallo, I'm Harshul Nanda! 👋</h1>
 
-Hi, I'm [Harshul Nanda](https://harshul-18.github.io/Harshul-Portfolio/), a Programmer from <img src="https://c.tenor.com/2ZCVcnyaXEMAAAAi/india-flag.gif" width="20" height="10" /> India. Beside's programming, I enjoy eating food and playing video games.
+<p align="center">
+  Developer exploring AI, robotics retargeting, and intelligent systems.
+</p>
 
-<br>
+<p align="center">
+  Let’s connect, exchange ideas, and build something meaningful together.
+</p>
 
-<!--   <img align="left" src="https://github.com/Harshul-18/Harshul-18/blob/main/Name.gif" alt="Name" width="475" height="250"/> -->
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Harshul-18&show_icons=true&theme=tokyonight" alt="Harshul's Github Stats" width="500" height="250"/> -->
-    
-<div align="right">
-  <div align="left">
-    
-<h3><b>Talking about Personal Stuffs:</b></h3>
+<p align="center">
+  <a href="mailto:harshulnanda0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://harshulnanda.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harshul-nanda">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Harshul-18">
+    <img src="https://img.shields.io/github/followers/Harshul-18?label=Follow&style=flat-square&logo=github" alt="GitHub followers"/>
+  </a>
+  <a href="https://www.codewars.com/users/harshulNanda18">
+    <img src="https://img.shields.io/badge/Codewars-harshulNanda18-B1361E?style=flat-square&logo=codewars&logoColor=white" alt="Codewars"/>
+  </a>
+   <a href="https://leetcode.com/u/harshulnanda0/">
+    <img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="Harshul's LeetCode profile"/>
+</p>
 
-<!--   <li>🔭 I’m currently working on PocketBook Application.</li> -->
-  - 👯 I’m looking to collaborate on iOS Development.
-  - 💬 Ask me about Python, Swift or any other tech related stuff.
-  - 📫 How to reach me: <b>Email</b> <a href="mailto:harshulnanda0@gmail.com">harshulnanda0@gmail.com</a>
-  - 😄 Pronouns: He/His  
-  - ⚡ Fun fact: I love <a href="www.wolfromalpha.com">mathematics</a>
-    
-    
-    
-  </div>
-</div>
+---
 
-<br>
+### About me
 
-   <img align="right" src="https://github.com/Harshul-18/Harshul-18/blob/main/Developing.gif" alt="DevelopingImage" width="500" height="250"/>
+* 🔭 Currently exploring **AI systems, intelligent applications, and agent based simulations**
+* 🤖 Working with **robotics retargeting**
+* 🦀 Currently fascinated by **Rust and its approach to safe systems programming**
+* 🤝 Open to collaborating on creative software and open source projects
+* 💬 Ask me about Python, AI applications, simulations, or software development
+* 📫 Reach me at **[harshulnanda0@gmail.com](mailto:harshulnanda0@gmail.com)**
+* ⚡ I love mathematics, good food, and video games
 
-### Tools
-- Software Development :-&ensp;
-![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/harshul-18 "Visual Studio") ![XCode](https://img.shields.io/badge/-1575F9?style=flat&logo=Xcode&logoColor=white&link=https://github.com/harshul-18 "XCode")
+### Languages and technologies
 
-- Version Control :-&ensp;
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/harshul-18)](https://github.com/harshul-18)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/harshul-18)](https://github.com/harshul-18)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,rust,typescript,javascript,cpp,c,swift,git,github,vscode,figma,react&theme=dark&perline=6" alt="Python, Rust, TypeScript, JavaScript, C++, C, Swift, Git, GitHub, Visual Studio Code, Figma, and React"/>
+</p>
 
-- Languages :&ensp;
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+### Featured projects
 
-- Designing Tools :&ensp;
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">ASSUME</h3>
+      <p align="center">
+        Agent based simulation for studying and understanding market evolution.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Harshul-18/assume">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="ASSUME repository"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">TurtleBot3 Robot Retargeting</h3>
+      <p align="center">
+        Robot trajectory manipulation and motion retargeting with TurtleBot3.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Harshul-18/robot-trajectory-manipulation">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="TurtleBot3 Robot Retargeting repository"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Recura Health Management</h3>
+      <p align="center">
+        An intelligent application focused on health management and care.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Harshul-18/recura-hytra">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Recura Health Management repository"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Crime Prediction in Conversations</h3>
+      <p align="center">
+        Analysing conversations to identify patterns associated with potential criminal activity.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Harshul-18/crime-conversation-analysis">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Crime Prediction in Conversations repository"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">HARM Bot</h3>
+      <p align="center">
+        A web application for analysing educational content on YouTube.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Harshul-18/harm-bot">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="HARM Bot repository"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Spline](https://img.shields.io/badge/spline-%20-%20)
+### GitHub activity
 
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harshul-18&theme=tokyonight" alt="Harshul's GitHub statistics"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshul-18&theme=tokyonight" alt="Harshul's most used languages"/>
+  <img src="https://streak-stats.demolab.com?user=Harshul-18&theme=tokyonight&hide_border=true" alt="Harshul's GitHub contribution streak"/>
+</p>
 
-<br>
+### Coding profiles
 
-<!--    <img align="right" src="https://github.com/Harshul-18/Harshul-18/blob/main/Developing.gif" alt="DevelopingImage" width="500" height="250"/> -->
+<p align="center">
+  <a href="https://www.codewars.com/users/harshulNanda18">
+    <img src="https://www.codewars.com/users/harshulNanda18/badges/large" alt="Harshul's Codewars rank"/>
+  </a>
+</p>
 
+---
 
-<h3>Projects</h3>
-<!-- <blockquote> -->
-<details>	
-  <summary><b>Here's what I have done in Python</b></summary>
-  <br />
-  <ul>
-    <li>
-      <a href="https://github.com/Harshul-18/HARM-Bot">
-        HARM YouTube Bot API
-      </a>
-    </li>
-    <li>
-      <a href="">
-        Doubler application using Flutter
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/Harshul-18/PythonProjectsA/tree/main/PhotoToPencilSketchMaker">
-        Photo to Pencil Sketch Maker
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/Harshul-18/PythonProjectsA/tree/main/QRCodeGenerator">
-        QRCodeGenerator
-      </a>
-    </li>
-  </ul>
-</details>
-<details>	
-  <summary><b>Here's what I have done in Swift</b></summary>
-  <br />
-  <ul>
-    <li>
-      <a href="https://github.com/Harshul-18/iOSProjectsA/tree/main/Dupple">
-        Dupple: News Application
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/Harshul-18/SwiftProjects/tree/main/UnitConversion">
-        Unit Conversion App
-      </a>
-    </li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>See what I am working on</b></summary>
-<!--   <br /> -->
-  <a href="https://github.com/Harshul-18/HARM-Bot"><h3>ML Challenge</h3><a>
-  <img align="left" src="https://github.com/Harshul-18/Harshul-18/blob/main/harmLogo.gif" />
-</details>
-  
-<!-- </blockquote> -->
-    
-
-<!-- <p align="center">(click on the projects to head over to the repos)</p> -->
-
-<!-- --- -->
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshul-18&show_icons=true&theme=tokyonight) -->
-
-
-
-<!-- 
-<b> Python &emsp; </b> 
-<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/90" /> -->
-
-
+<p align="center">
+  Explore my repositories, share an idea, and let’s build something together.
+</p>
